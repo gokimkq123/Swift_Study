@@ -17,7 +17,6 @@ class ViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
         
         imgOn = UIImage(named: "file_name")
         imgOff = UIImage(named: "file_name")
