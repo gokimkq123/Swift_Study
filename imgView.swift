@@ -19,8 +19,8 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
         
-        imgOn = UIImage(named: "img1.daumcdn.png")
-        imgOff = UIImage(named: "img1.daumcdn-5.png")
+        imgOn = UIImage(named: "file_name")
+        imgOff = UIImage(named: "file_name")
         
         imgView.image = imgOn
     }
